@@ -1,0 +1,3 @@
+pandas>=0.18.1
+numpy>=1.17.2
+telethon>=1.16.2
